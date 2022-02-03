@@ -233,6 +233,11 @@ footer {
   .three-columns-container-md__item {
     width: 80%;
   }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media screen and (max-width: 400px) {
