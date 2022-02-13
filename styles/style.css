@@ -93,13 +93,13 @@ grid-area: social-menu;
 .menu-item > .menu-link {
   text-decoration: none;
   color: darkslategray;
-  font-weight: 520;
+  font-weight: 550;
   letter-spacing: 1px;
-  font-size: 0.75rem;
+  font-size: 0.80rem;
 }
 
 .social .icon {
-  width: 1rem;
+  width: 2rem;
 }
 
 /* Main area > header banner */
